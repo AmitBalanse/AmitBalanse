@@ -3,7 +3,6 @@
 ### A Data Science Enthusiastic
 ### I have expertise in :- Python, SQL, MangoDb, Power BI, Tableau, Machine Learning, Deep learning, Flask API, AWS, Django
 ### I'm currently learning :- Natural Language Processing (NLP)
-### How to reach me :- balanseamit@gmail.com
 
 <!--
 **AmitBalanse/AmitBalanse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
