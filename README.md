@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Amit Balanse
 ### A Data Science Enthusiastic
-### I have expertise in :- Python, SQL, MangoDb, Power BI, Tableau, Machine Learning
+### I have expertise in :- Python, SQL, MangoDb, Power BI, Machine Learning
 
 <!--
 **AmitBalanse/AmitBalanse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
